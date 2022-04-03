@@ -12,9 +12,15 @@ const Navbar = () => {
         </div>
         <div className=''>
           <ol className='flex flex-row'>
-            <li className='mx-2 md:mx-5'>Features</li>
-            <li className='mx-2 md:mx-5'>Team</li>
-            <li className='mx-2 md:mx-5'>Sign In</li>
+            <li className='mx-2 md:mx-5 cursor-pointer hover:font-bold hover:underline duration-75 transition-all '>
+              Features
+            </li>
+            <li className='mx-2 md:mx-5 cursor-pointer hover:font-bold hover:underline duration-75 transition-all '>
+              Team
+            </li>
+            <li className='mx-2 md:mx-5 cursor-pointer hover:font-bold hover:underline duration-75 transition-all '>
+              Sign In
+            </li>
           </ol>
         </div>
       </div>
