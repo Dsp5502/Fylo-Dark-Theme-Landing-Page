@@ -3,8 +3,31 @@
 @tailwind utilities;
 
 
+:root{
+  --DarkBlueintro:hsl(217, 28%, 15%);
+  --DarkBlueMain: hsl(218, 28%, 13%);
+  --DarkBlueFooter: hsl(216, 53%, 9%);
+  --DarkBlueTestimonials: hsl(219, 30%, 18%);
+}
+
+
+
+
 body{
-  background-color: hsl(217, 28%, 15%);
+background: linear-gradient(0deg, rgba(24, 31, 43, 1) 0%, rgba(24, 31, 43, 1) 25%, rgb(28, 36, 49) 100%);
+font-family: 'Raleway', sans-serif;
+
+}
+
+.color{
+  color: var(--DarkBlueMain)!important;
+}
+
+.bgMain{
+  background-image: url('https://res.cloudinary.com/djjgtili7/image/upload/v1649023863/fylo/bg-curvy-mobile_oqegg8.svg') !important;
+background-repeat: no-repeat;
+background-position: 100% 60%;
+background-size: contain;
 
 }
 
