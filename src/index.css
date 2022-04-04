@@ -42,3 +42,11 @@ background-size: contain;
   background-color: var(--DarkBlueTestimonials);
 }
 
+.bg-footer{
+  background-color: var(--DarkBlueFooter);
+}
+
+.bg-mail{
+ background-color: var(--DarkBlueintro);
+}
+
