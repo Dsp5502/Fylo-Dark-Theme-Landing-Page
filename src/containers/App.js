@@ -2,6 +2,7 @@ import '../App.css';
 import Acces from '../Components/Acces';
 import AllFiles from '../Components/AllFiles';
 import Navbar from '../Components/Navbar';
+import Productive from '../Components/Productive';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <AllFiles />
       <Acces />
+      <Productive />
     </div>
   );
 }
