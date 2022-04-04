@@ -3,7 +3,7 @@ import { testimo } from '../data/data';
 
 const Testimonials = () => {
   return (
-    <div className='border-2 border-red-800 mt-5 flex flex-col md:flex-row md:flex-wrap justify-center  items-center py-3  '>
+    <div className='  mt-5 flex flex-col md:flex-row md:flex-wrap justify-center  items-center py-3  '>
       <div className='w-10/12 md:w-full md:ml-7 '>
         <img
           className='w-6 md:w-12   md:absolute'

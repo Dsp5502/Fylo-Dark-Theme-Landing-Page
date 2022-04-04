@@ -34,10 +34,18 @@ background-size: contain;
 .btnColor{
   background-color: #44b2d1;
 }
+.btnColor:hover{
+  background-color: #a3d1dd;
+}
 
 .btnProductive{
   color: #69DDD2
 }
+
+.btnicon:hover{
+  color: #69DDD2
+}
+
 .bgTesti{
   background-color: var(--DarkBlueTestimonials);
 }

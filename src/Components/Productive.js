@@ -4,7 +4,7 @@ import React from 'react';
 
 const Productive = () => {
   return (
-    <div className='border-2 border-red-800 mt-5 flex flex-col md:flex-row   justify-center items-center  py-3 '>
+    <div className=' mt-5 flex flex-col md:flex-row   justify-center items-center  py-3 '>
       <img
         className=' my-5 w-4/5 md:w-1/2 md:p-10 '
         src='https://res.cloudinary.com/djjgtili7/image/upload/v1649023865/fylo/illustration-stay-productive_zd8mi8.png'

@@ -3,12 +3,12 @@ import { acces } from '../data/data';
 
 const Acces = () => {
   return (
-    <div className='border-2 border-red-800 mt-5 flex flex-col  justify-center items-center py-3 '>
+    <div className=' mt-5 flex flex-col  justify-center items-center py-3 '>
       <div className='flex flex-wrap  w-80 md:w-4/5 '>
         {acces.map((item, index) => (
           <div
             key={index}
-            className='w-full md:w-1/2 border-2 flex flex-col  justify-items-center items-center border-blue-800 text-center mb-10 '
+            className='w-full md:w-1/2 flex flex-col  justify-items-center items-center  text-center mb-10 '
           >
             <img className='w-20 h-20 my-5' src={item.imagen} alt='' />
             <h2 className=' text-xl font-bold my-2'>{item.titulo}</h2>

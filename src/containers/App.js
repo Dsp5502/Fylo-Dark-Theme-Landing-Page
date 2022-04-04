@@ -9,7 +9,7 @@ import Testimonials from '../Components/Testimonials';
 
 function App() {
   return (
-    <div className='container mx-auto mt-10 md:mt-20  text-white border-2 border-red-800 bgMain '>
+    <div className='container mx-auto mt-10 md:mt-20  text-white  bgMain '>
       <Navbar />
       <AllFiles />
       <Acces />
