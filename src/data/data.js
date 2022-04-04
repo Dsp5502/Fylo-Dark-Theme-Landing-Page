@@ -28,3 +28,30 @@ export const acces = [
       "Whether you're sharing holidays photos or work documents, Fylo has you covered allowing for all file types to be securely stored and shared.",
   },
 ];
+
+export const testimo = [
+  {
+    descripcion:
+      'Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.',
+    imagen:
+      'https://res.cloudinary.com/djjgtili7/image/upload/v1649023866/fylo/profile-1_jgrnwo.jpg',
+    nombre: 'Satish Patel',
+    cargo: 'Founder & CEO, Huddle',
+  },
+  {
+    descripcion:
+      'Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.',
+    imagen:
+      'https://res.cloudinary.com/djjgtili7/image/upload/v1649023866/fylo/profile-2_ogscns.jpg',
+    nombre: 'Bruce McKenzie',
+    cargo: 'Founder & CEO, Huddle',
+  },
+  {
+    descripcion:
+      'Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.',
+    imagen:
+      'https://res.cloudinary.com/djjgtili7/image/upload/v1649023866/fylo/profile-3_wbnyzc.jpg',
+    nombre: 'Iva Boyd',
+    cargo: 'Founder & CEO, Huddle',
+  },
+];

@@ -3,6 +3,7 @@ import Acces from '../Components/Acces';
 import AllFiles from '../Components/AllFiles';
 import Navbar from '../Components/Navbar';
 import Productive from '../Components/Productive';
+import Testimonials from '../Components/Testimonials';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <AllFiles />
       <Acces />
       <Productive />
+      <Testimonials />
     </div>
   );
 }

@@ -38,4 +38,7 @@ background-size: contain;
 .btnProductive{
   color: #69DDD2
 }
+.bgTesti{
+  background-color: var(--DarkBlueTestimonials);
+}
 
