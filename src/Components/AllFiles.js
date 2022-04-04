@@ -19,7 +19,7 @@ const AllFiles = () => {
           Acces them wherever you need, share and collaborate with friends
           family, and co-workers.
         </p>
-        <button className=' w-56 md:w-72  h-12 md:h-14 font-bold py-2 text-md rounded-full bg-teal-600'>
+        <button className=' w-56 md:w-72  h-12 md:h-14 font-bold py-2 text-md rounded-full btnColor'>
           Get Started
         </button>
       </div>
